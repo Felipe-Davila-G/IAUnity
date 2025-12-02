@@ -1,6 +1,7 @@
-#  Videojuego basado en la saga Souls
+#  Sistema de Inteligencia Artificial para Enemigos en Unity
 
-Este es un videojuego que se inspira en la saga Souls, tanto en la tematica, la ambientacion y mecanicas principales 
+Proyecto enfocado en el desarrollo de un sistema de IA para enemigos dentro de Unity.
+No es un videojuego completo, sino un módulo de inteligencia artificial listo para usar, modificar o ampliar en otros proyectos.
 
 
 
@@ -11,6 +12,8 @@ Este es un videojuego que se inspira en la saga Souls, tanto en la tematica, la 
 - Motor: Unity 
 
 - Lenguajes: C#
+
+- Arquitectura: FSM (Finite State Machine)
  
 
 ---
